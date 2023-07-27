@@ -4,6 +4,7 @@
 **1. Projektni zadatak**
 
 Šta ćeš nema ti pomoći moraš ga nekako uraditi. Pitaj ChatGPT-a ili neka ti baba napiše.
+
 https://www.youtube.com/watch?v=t68Y9Z91reM
 
 **2. Pismeni ispit**
