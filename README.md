@@ -6,7 +6,10 @@
 https://www.youtube.com/watch?v=t68Y9Z91reM
 
 **2. Pismeni ispit**
-E tu već imam nešto u šteku. Znači slike koje slijede su bukvalno najvažnije stvari iz 10+ pređenih rokova. Ako ih znaš možeš lako uraditi zadatak, ako ne onda si najebao. Najbolje naučiti napamet sve pa ako te potrefi na konju si.
+
+E tu već imam nešto u šteku. 
+Znači slike koje slijede su bukvalno najvažnije stvari iz 10+ pređenih rokova.
+Ako ih znaš možeš lako uraditi zadatak, ako ne onda si najebao. Najbolje naučiti napamet sve pa ako te potrefi na konju si.
 
 ![1](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Pismeni/CamScanner%202023-07-24%2017.13_1.jpg)
 
@@ -33,7 +36,11 @@ E tu već imam nešto u šteku. Znači slike koje slijede su bukvalno najvažnij
 **3. Usmeni ispit**
 https://www.youtube.com/watch?v=DjTCiBl-hxY
 
-E tu se stvar lomi. Ne možeš mu ništa znati koliko god vježbao na isto ti dođe. Svede se na kraju na sreću većinom i nešto malo znanja. Ima jedan rok iz februara leakovan pa može poslužiti da se vidi šta se može očekivati. <a href="https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/20230213.pdf" target="_blank">PDF FAJL USMENOG</a>
+E tu se stvar lomi. 
+Ne možeš mu ništa znati koliko god vježbao na isto ti dođe. Svede se na kraju na sreću većinom i nešto malo znanja.
+Ima jedan rok iz februara leakovan pa može poslužiti da se vidi šta se može očekivati.
+<a href="https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/20230213.pdf" target="_blank">PDF FAJL USMENOG</a>
+
 Zapisao sam neke cake često što budu:
 - Zna staviti da main metoda nije u odgovarajućoj public klasi, navlakuša čista, sve dobro kad ono prc!
 - U try-catch bloku ukoliko neki segment koda u try bloku baca sigurno izuzetak kod posle njega baca unreachable exception jer se nikada neće ni izvršiti.
@@ -46,7 +53,10 @@ Zapisao sam neke cake često što budu:
   System.out.println(b!=b);
   Ispisuje true i smjenjuje se svakim poyivom (true,false,true,false itd...)
 
-Najbolje raditi redom zadatke i ne zadržavati se previše ako se zbagaš. Ja sam radio 40min prvi tip, 15min memoriju i ostatak vremena treći tip.
+Najbolje raditi redom zadatke i ne zadržavati se previše ako se zbagaš. 
+Ja sam radio 40min prvi tip, 15min memoriju i ostatak vremena treći tip.
+
 Srećno! :)
+
 https://www.youtube.com/watch?v=FlgMlenU8JU
 
