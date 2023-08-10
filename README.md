@@ -43,6 +43,25 @@ Ne možeš mu ništa znati koliko god vježbao na isto ti dođe. Svede se na kra
 Ima jedan rok iz februara leakovan pa može poslužiti da se vidi šta se može očekivati.
 <a href="https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/20230213.pdf" target="_blank">PDF FAJL USMENOG</a>
 
+Kako se radi memorija? Ovako:
+
+![M1](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Pismeni/CamScanner%202023-07-24%2017.13_1.jpg)
+
+![M1R1](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija1-R.jpg)
+
+![M1R2](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija1-R2.jpg)
+
+![M1R2](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija1-R3.jpg)
+
+![M2](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija2.jpg)
+
+![M2R](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija2-R.jpg)
+
+![M3](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija3.jpg)
+
+![M3R](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija3-R.jpg)
+
+
 Zapisao sam neke cake često što budu:
 - Zna staviti da main metoda nije u odgovarajućoj public klasi, navlakuša čista, sve dobro kad ono prc!
 - U try-catch bloku ukoliko neki segment koda u try bloku baca sigurno izuzetak kod posle njega baca unreachable exception jer se nikada neće ni izvršiti.
