@@ -45,7 +45,7 @@ Ima jedan rok iz februara leakovan pa može poslužiti da se vidi šta se može 
 
 Kako se radi memorija? Ovako:
 
-![M1](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Pismeni/CamScanner%202023-07-24%2017.13_1.jpg)
+![M1](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija1.jpg)
 
 ![M1R1](https://github.com/Djed01/JAVA-SURVIVAL-GUIDE/blob/main/Usmeni/Memorija/Memorija1-R.jpg)
 
